@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="Splash Screen">
+    <file>splash_screen.jpg</file>
+  </qresource>
+  <qresource prefix="Upper Menu Icons">
+    <file>user.png</file>
+    <file>user_hover.png</file>
+    <file>BiLLeRR_icon.png</file>
+  </qresource>
+  <qresource prefix="Toggle Menu Icons">
+    <file>logout.png</file>
+    <file>logout_hover.png</file>
+    <file>help.png</file>
+    <file>control_center.png</file>
+    <file>help_hover.png</file>
+    <file>control_center_hover.png</file>
+  </qresource>
+</RCC>

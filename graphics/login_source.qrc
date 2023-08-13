@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="login">
+    <file>login_image.png</file>
+    <file>login_input_password.png</file>
+    <file>login_input_user.png</file>
+  </qresource>
+  <qresource prefix="Mobile Signup">
+    <file>mob_otp.jpg</file>
+    <file>mob_verify.jpg</file>
+  </qresource>
+  <qresource prefix="Email Signup">
+    <file>email_otp.jpg</file>
+    <file>email_verify.png</file>
+  </qresource>
+  <qresource prefix="Signup">
+    <file>signup_img.png</file>
+    <file>down_arrow.png</file>
+  </qresource>
+</RCC>
