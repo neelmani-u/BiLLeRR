@@ -1,6 +1,9 @@
 # BiLLeRR App - Bill and Receipt Management System
 The BiLLeRR App is a comprehensive bill and receipt management system designed to simplify and enhance the way individuals and businesses organize, track, and manage their financial transactions. By combining intuitive user interfaces with powerful backend features, the app provides a holistic solution for users to effortlessly manage their bills, receipts, and expenses.
 
+# Preview
+![Preview](BiLLeRR.jpeg)
+
 # Key Features:
 - **Real-time Menu Updates:** Pizza shop owners can easily update the menu, prices, and availability in real time, ensuring that customers have access to the latest offerings.
 
